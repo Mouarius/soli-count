@@ -28,10 +28,6 @@
     // "module": "preserve",
     "noEmit": true,
     /* If your code runs in the DOM: */
-    "lib": [
-      "es2022",
-      "dom",
-      "dom.iterable"
-    ]
+    "lib": ["es2022", "dom", "dom.iterable"]
   }
 }
